@@ -11,15 +11,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  # 📊 GitHub Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cbaeza16&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/><p>
-<br/>
+## 📊 GitHub Stats:
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cbaeza16&theme=dark&hide_border=true"/></p>
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbaeza16&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/casey-baeza-973b3134b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🤝 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casey-baeza-973b3134b) 
