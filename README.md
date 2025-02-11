@@ -7,8 +7,8 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
 🚀 Always eager to learn, explore new technologies, and contribute to innovative projects.
 
 <div style="display: inline_block" margin-bottom: 10px;><br>
-  <img align="center" alt="KC-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="KC-C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="KC-Js" height="30" margin-bottom: 5px; src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="KC-C" height="30" margin-bottom: 5px; src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="KC-Go" height="30"src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="KC-C#" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="KC-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
