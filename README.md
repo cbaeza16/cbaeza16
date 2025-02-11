@@ -6,7 +6,7 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
 
 🚀 Always eager to learn, explore new technologies, and contribute to innovative projects.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" margin-bottom: 10px;><br>
   <img align="center" alt="KC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KC-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="KC-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,7 +21,7 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
   <img align="center" alt="KC-PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="KC-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="KC-Net"  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img align="center" alt="KC-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img align="center" alt="KC-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   <img align="center" alt="KC-Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="KC-ApacheM" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
   <img align="center" alt="KC-Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
