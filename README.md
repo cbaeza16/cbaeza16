@@ -6,9 +6,7 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
 
 🚀 Always eager to learn, explore new technologies, and contribute to innovative projects.
 
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)   ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
