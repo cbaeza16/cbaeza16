@@ -16,10 +16,10 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cbaeza16&theme=dark&hide_border=true"/></p>
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbaeza16&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
   
-## 🤝 Socials:
+## 🤝 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casey-baeza-973b3134b) 
