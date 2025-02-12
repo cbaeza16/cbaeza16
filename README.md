@@ -15,4 +15,4 @@ Hi! I'm a Computer Engineering student in my final year at Tecnológico de Costa
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbaeza16&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
   
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casey-baeza-973b3134b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casey-baeza-castrillo-973b3134b) 
